@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300">
+<rect width="500" height="300" fill="white" stroke="black"/>
+<text x="250" y="135" text-anchor="middle" font-size="70">💻</text>
+<text x="250" y="215" text-anchor="middle" font-family="Arial" font-size="24">Notebook Gamer</text>
+</svg>
